@@ -1,0 +1,4 @@
+D:\Facultate\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\Project.exe
+D:\Facultate\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\Project.pdb
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\Project.exe
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\Project.pdb

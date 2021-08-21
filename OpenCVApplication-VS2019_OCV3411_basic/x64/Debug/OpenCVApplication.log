@@ -1,0 +1,44 @@
+﻿  stdafx.cpp
+  common.cpp
+  OpenCVApplication.cpp
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(34,27): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(111,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(112,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(113,28): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(167,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(170,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(185,27): warning C4553: '==': result of expression not used; did you intend '='?
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(197,27): warning C4553: '==': result of expression not used; did you intend '='?
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(228,27): warning C4553: '==': result of expression not used; did you intend '='?
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(268,28): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\OpenCVApplication.cpp(267,40): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating Code...
+  OpenCVApplication.vcxproj -> E:\ANUL III\SEMII\PI\Proiect\OpenCVApplication-VS2019_OCV3411_basic\x64\Debug\Project.exe
+  OpenCV\dll\Debug\opencv_ffmpeg3411_64.dll
+  OpenCV\dll\Debug\opencv_world3411d.dll
+          2 file(s) copied.
